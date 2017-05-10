@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="thanhnk996.github.io" resolutions="1x" timestamp="1494386612934">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="thanhnk996.github.io" resolutions="1x" timestamp="1494387225468">
   <folder name="images">
     <file name="3.jpg" crc="4055296430" seo="true" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="190048158" ref="index"/>
+    <file name="index.css" crc="429120679" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
@@ -12,5 +12,5 @@
     <file name="whatinput.js" crc="84559013" ref="index"/>
     <file name="jquery.watch.js" crc="3866665977" ref="index"/>
   </folder>
-  <file name="index.html" crc="3913035794" seo="true" mt="1494386583389" redirect="true"/>
+  <file name="index.html" crc="3853614701" seo="true" mt="1494387219839" redirect="true"/>
 </manifest>
